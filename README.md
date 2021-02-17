@@ -1,1 +1,1 @@
-# panorama_stitching_video_stabilization_object_tracking
+# panorama stitching, video stabilization and object tracking
